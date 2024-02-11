@@ -1,5 +1,4 @@
 // Serbian foof menu
-
 class FoodItem {
     constructor(name, description) {
       this.name = name;
